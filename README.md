@@ -1,7 +1,9 @@
 <h1>Hi, I'm Jarvis</h1>
 
 <h2>👨‍💻 Projects:</h2>
--[Active Directory Lab](https://github.com/jarvisrichard21/ActiveDirectoryLab)
+<ul>
+   <li><a href="https://github.com/jarvisrichard21/ActiveDirectoryLab">Active Directory Home Lab</a></li>
+</ul>
 
 <h2>Certifications:</h2>
 
