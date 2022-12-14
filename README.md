@@ -1,12 +1,12 @@
 <h1>Hi, I'm Jarvis</h1>
-
+<p>As a part of my enrollment in the JobSkillsShare IT Training Program, I have documented a few lab projects that I have completed in the course.</p>
 <h2>👨‍💻 Practice Labs:</h2>
 <ul>
    <li><a href="https://github.com/jarvisrichard21/Installing Windows 10 OS on a VM using an optic drive ">Installation of Windows 10 using a DVD</a></li>
 </ul>
 
 <h2>Certifications:</h2>
-
+<p> JSS Certificate <b>(Status:Ongoing)</b></p>
 
 <h2>📺YouTube Videos</h2>
 
@@ -25,17 +25,3 @@
 [linkedin]: https://linkedin.com/in/joshmadakor
 ---!>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
