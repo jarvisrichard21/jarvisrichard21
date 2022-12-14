@@ -1,8 +1,8 @@
 <h1>Hi, I'm Jarvis</h1>
 
-<h2>👨‍💻 Projects:</h2>
+<h2>👨‍💻 Practice Labs:</h2>
 <ul>
-   <li><a href="https://github.com/jarvisrichard21/ActiveDirectoryLab">Active Directory Home Lab</a></li>
+   <li><a href="https://github.com/jarvisrichard21/Installing Windows 10 OS on a VM using an optic drive ">Installation of Windows 10 using a DVD</a></li>
 </ul>
 
 <h2>Certifications:</h2>
