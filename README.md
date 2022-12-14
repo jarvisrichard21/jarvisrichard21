@@ -2,7 +2,7 @@
 <p>As a part of my enrollment in the JobSkillsShare IT Training Program, I have documented a few lab projects that I have completed in the course.</p>
 <h2>👨‍💻 Practice Labs:</h2>
 <ul>
-   <li><a href="https://github.com/jarvisrichard21/Installing Windows 10 OS on a VM using an optic drive ">Installation of Windows 10 using a DVD</a></li>
+   <li><a href="https://github.com/jarvisrichard21/Installing Windows 10 OS on a VM using an optic drive">Installation of Windows 10 using a DVD</a></li>
 </ul>
 
 <h2>Certifications:</h2>
