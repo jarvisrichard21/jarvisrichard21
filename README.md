@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Practice Labs:</h2>
 
-<a href="https://github.com/jarvisrichard21/Adding%20a%20computer%20to%20an%20existing%20domain">Adding a computer to an existing domain</a>
+<a href="https://github.com/jarvisrichard21/Adding-a-computer-to-an-existing-domain">Adding a computer to an exisitng domain"</a>
 
 <h2>Certifications:</h2>
 <p> JSS Certificate <b>(Status:Ongoing)</b></p>
