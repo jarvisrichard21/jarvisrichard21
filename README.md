@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Practice Labs:</h2>
 <ul>
-   <li><a href="https://github.com/jarvisrichard21/ActiveDirectoryLab"</a>"Active Directory Home Lab"</li>
+   <li><a href="https://github.com/jarvisrichard21/Adding a computer to an existing domain"</a>"Active Directory"</li>
 </ul>
 
 <h2>Certifications:</h2>
