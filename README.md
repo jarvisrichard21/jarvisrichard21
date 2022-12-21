@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Practice Labs:</h2>
 <ol>
-  <li><a href="https://github.com/jarvisrichard21/Install-win11"> Install Win 11 </a></li>
+  <ul><a href="https://github.com/jarvisrichard21/Install-win11"> Install Win 11 </a></ul>
 </ol>
 
 <h2>Certifications:</h2>
