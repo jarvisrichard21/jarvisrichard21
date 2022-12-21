@@ -1,9 +1,9 @@
 <h1>Hi, I'm Jarvis</h1>
 
 <h2>👨‍💻 Practice Labs:</h2>
-<ol>
-  <ul><a href="https://github.com/jarvisrichard21/Install-win11">Install Win 11</a></ul>
-</ol>
+<ul>
+  <li><a href="https://github.com/jarvisrichard21/Install-win11">Install Win 11</a></li>
+</ul>
 
 <h2>Certifications:</h2>
 <p> JSS Certificate <b>(Status:Ongoing)</b></p>
