@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Practice Labs:</h2>
 <ul>
-  <li><a href="https://github.com/jarvisrichard21/Install-win11">Install Win 11</a></li>
+  <li><a href="https://github.com/jarvisrichard21/Install-win11">Windows 11 Installation</a></li>
   <li><a href="https://github.com/jarvisrichard21/Active-Directory-Management">Active Directory Services</a></li>
 </ul>
 
