@@ -12,7 +12,9 @@
 <h2>📺YouTube Videos</h2>
 
 - [Lab Tutorials]  
-
+<ul>
+  <li>https://youtu.be/yX7b-3318eo </li>
+  </ul>
 <h2> 🤳 Connect with me:</h2>
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
