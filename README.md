@@ -10,7 +10,8 @@
 <p> JSS Certificate <b>(Status:Ongoing)</b></p>
 
 <h2>📺YouTube Videos</h2>
- <a href="https://youtu.be/yX7b-3318eo">Add local user to computer</a>
+ <a href="https://youtu.be/yX7b-3318eo">Add a Local User to a Computer</a>
+ <a href="https://youtu.be/XLeHoZG2J7o">Join a Computer to a Domain</a> 
 <h2> 🤳 Connect with me:</h2>
 <!--
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
