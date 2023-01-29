@@ -10,8 +10,6 @@
 <p> JSS Certificate <b>(Status:Ongoing)</b></p>
 
 <h2>📺YouTube Videos</h2>
-
-- [Lab Tutorials]  
  <a href="https://youtu.be/yX7b-3318eo">Add local user to computer</a>
 <h2> 🤳 Connect with me:</h2>
 <!--
