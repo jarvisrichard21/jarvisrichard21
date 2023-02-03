@@ -11,7 +11,7 @@
 
 <h2>📺YouTube Videos</h2>
 <ul>
-  <li><a href="https://youtu.be/yX7b-3318eo">Add a Local User to a Computer</a></li>
+  <li><a href="https://youtu.be/yX7b-3318eo">Add a Local User</a></li>
   <li><a href="https://youtu.be/XLeHoZG2J7o">Join a Computer to a Domain</a></li>
 </ul>
 <h2> 🤳 Connect with me:</h2>
