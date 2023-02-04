@@ -9,7 +9,6 @@
 <p> JSS Certificate <b>(Status:Ongoing)</b></p>
 
 <h2>📺YouTube Videos</h2>
-<h3>Collection of short how-to videos:</h3>
 <ul>
   <li><a href="https://youtu.be/yX7b-3318eo">Add a Local User</a></li>
   <li><a href="https://youtu.be/XLeHoZG2J7o">Join a Computer to a Domain</a></li>
