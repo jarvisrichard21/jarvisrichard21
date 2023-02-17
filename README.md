@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jarvis</h1>
 
-<h2>👨‍💻 Tutorial:</h2>
+<h2>👨‍💻 Technical Docs:</h2>
 <ul>
   <li><a href="https://github.com/jarvisrichard21/Install-win11">Windows 11 Installation</a></li>
 </ul>
